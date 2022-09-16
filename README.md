@@ -40,15 +40,15 @@ Overview of the statistical analysis:
 
 Additonal Analysis:
 
-1. Top Ten Start Stations (Bar Chart)
+### 1. Top Ten Start Stations (Bar Chart)
 
 ![This is an Image] ()
 
-2. Top Ten End Stations
+### 2. Top Ten End Stations
 
 ![This is an Image] ()
 
-3. August Peak Hours
+### 3. August Peak Hours
 
 ![This is an Image] ()
 
