@@ -15,6 +15,12 @@ The Top Ten Stations are in the downtown area.
 
 [NY Citibike Tableau Link](https://public.tableau.com/app/profile/alex.borden/viz/NYCCitibikeChallenge_16632687147950/CitibikeStory?publish=yes")
 
+Cleaning the Data in Jupyter Notebook:
+
+![This is an Image] ()
+
+![This is an Image] ()
+
 The written analysis has the following:
 
 Overview of the statistical analysis:
@@ -28,6 +34,21 @@ Overview of the statistical analysis:
 ![This is an Image] ()
 
 ## Create the User Trips by Gender by Weekday Viz
+
+![This is an Image] ()
+
+
+Additonal Analysis:
+
+## Top Ten Start Stations (Bar Chart)
+
+![This is an Image] ()
+
+## Top Ten End Stations
+
+![This is an Image] ()
+
+## August Peak Hours
 
 ![This is an Image] ()
 
