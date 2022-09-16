@@ -54,8 +54,8 @@ Cleaning the Data in Jupyter Notebook:
 ## Summary:
 
 * Bike Repairs for 1/3 of the Citibikes need to be done during non-peak hours around 1-5 am.
-* Male subscribers are the highest users and follow the traditional high use times of travel to and from work.
-* Target market should be males needing transportation to work and weekend activities and push for subscribing to the services.
+* The top riding hours are at 8am and 5pm. 
+* Pershing square north is a hotspot for starting rides. 
 
 
 
