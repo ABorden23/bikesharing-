@@ -36,10 +36,9 @@ Cleaning the Data in Jupyter Notebook:
 
 <img src="https://github.com/ABorden23/bikesharing-/blob/main/resources/Create%20the%20User%20Trips%20by%20Gender%20by%20Weekday%20Viz.jpg" width=75% height=75%>
 
-## Additonal Analysis:
+## Additional Analysis:
 
 ### 1. Top Ten Start Stations (Bar Chart)
-
 
 <img src="https://github.com/ABorden23/bikesharing-/blob/main/resources/Top%20Ten%20Start%20Stations%20(Bar%20Chart).jpg" width=75% height=75%>
 
