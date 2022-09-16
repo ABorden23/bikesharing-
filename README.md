@@ -1,6 +1,13 @@
 # NYC Citibike with Tableau
 
-Our Citibike Story: 
+## Link to Tableau Story 
+[NY Citibike Tableau Link](https://public.tableau.com/app/profile/alex.borden/viz/NYCCitibikeChallenge_16632687147950/CitibikeStory?publish=yes")
+
+## Overview: 
+
+Des Moines requested data for a business proposal. August 2019 Citibike data from NYC was reviewed by looking at geographical data as well as data disaggregated by user types and genders to determine if it would be a good investment for Des Moines. Other data points include usage durations, peak usage times, and the key target market.
+
+## Our Citibike Story: 
 
 The Top Ten Stations are in the downtown area.
 
