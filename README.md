@@ -1,18 +1,27 @@
 # NYC Citibike with Tableau
 
-[NY Citibike Dashboard](https://public.tableau.com/app/profile/alex.borden/viz/NYCCitibikeChallenge_16632687147950/CitibikeStory?publish=yes")
+Our Citibike Story: 
+
+The Top Ten Stations are in the downtown area.
+
+
+
+[NY Citibike Tableau Link](https://public.tableau.com/app/profile/alex.borden/viz/NYCCitibikeChallenge_16632687147950/CitibikeStory?publish=yes")
 
 The written analysis has the following:
 
 Overview of the statistical analysis:
 
-The purpose of the analysis is well defined. (5 pt)
+## Create the Checkout Times by Gender Viz
+
+## Create the Trips by Weekday for Each Hour Viz
+
+## Create the User Trips by Gender by Weekday Viz
+
+
 Results:
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
-Summary:
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+Summary:
 
 
