@@ -3,11 +3,11 @@
 ## Link to Tableau Story 
 [NY Citibike Tableau Link](https://public.tableau.com/app/profile/alex.borden/viz/NYCCitibikeChallenge_16632687147950/CitibikeStory?publish=yes")
 
-## Overview: 
+## The Citibike Story: 
 
 Des Moines requested data for a business proposal. August 2019 Citibike data from NYC was reviewed by looking at geographical data as well as data disaggregated by user types and genders to determine if it would be a good investment for Des Moines. Other data points include usage durations, peak usage times, and the key target market.
 
-## Our Citibike Story: 
+## Results:
 
 The Top Ten Stations are in the downtown area.
 
@@ -23,10 +23,6 @@ Cleaning the Data in Jupyter Notebook:
 <img src="https://github.com/ABorden23/bikesharing-/blob/main/resources/jupyter%202.jpg" width=75% height=75%>
 
 
-
-The written analysis has the following:
-
-Overview of the statistical analysis:
 
 ## Create the Checkout Times by Gender Viz
 
@@ -57,6 +53,11 @@ Overview of the statistical analysis:
 
 
 ## Summary:
+
+* Bike Repairs for 1/3 of the Citibikes need to be done during non-peak hours around 1-5 am.
+* Male subscribers are the highest users and follow the traditional high use times of travel to and from work.
+* Target market should be males needing transportation to work and weekend activities and push for subscribing to the services.
+
 
 
 
