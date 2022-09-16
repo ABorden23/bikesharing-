@@ -11,15 +11,18 @@ Des Moines requested data for a business proposal. August 2019 Citibike data fro
 
 The Top Ten Stations are in the downtown area.
 
-![This is an Image] ()
+<img src="https://github.com/ABorden23/bikesharing-/blob/main/resources/The%20Top%20Ten%20Stations%20are%20in%20the%20downtown%20area.jpg" width=75% height=75%>
 
 [NY Citibike Tableau Link](https://public.tableau.com/app/profile/alex.borden/viz/NYCCitibikeChallenge_16632687147950/CitibikeStory?publish=yes")
 
 Cleaning the Data in Jupyter Notebook:
 
-![This is an Image] ()
 
-![This is an Image] ()
+<img src="https://github.com/ABorden23/bikesharing-/blob/main/resources/jupyter%201.jpg" width=75% height=75%>
+
+<img src="https://github.com/ABorden23/bikesharing-/blob/main/resources/jupyter%202.jpg" width=75% height=75%>
+
+
 
 The written analysis has the following:
 
@@ -27,30 +30,30 @@ Overview of the statistical analysis:
 
 ## Create the Checkout Times by Gender Viz
 
-![This is an Image] ()
+<img src="https://github.com/ABorden23/bikesharing-/blob/main/resources/Create%20the%20Checkout%20Times%20by%20Gender%20Viz.jpg" width=75% height=75%>
 
 ## Create the Trips by Weekday for Each Hour Viz
 
-![This is an Image] ()
+<img src="https://github.com/ABorden23/bikesharing-/blob/main/resources/Create%20the%20Trips%20by%20Gender%20(Weekday%20per%20Hour)%20Viz.jpg" width=75% height=75%>
 
 ## Create the User Trips by Gender by Weekday Viz
 
-![This is an Image] ()
+<img src="https://github.com/ABorden23/bikesharing-/blob/main/resources/Create%20the%20User%20Trips%20by%20Gender%20by%20Weekday%20Viz.jpg" width=75% height=75%>
 
-
-Additonal Analysis:
+## Additonal Analysis:
 
 ### 1. Top Ten Start Stations (Bar Chart)
 
-![This is an Image] ()
+
+<img src="https://github.com/ABorden23/bikesharing-/blob/main/resources/Top%20Ten%20Start%20Stations%20(Bar%20Chart).jpg" width=75% height=75%>
 
 ### 2. Top Ten End Stations
 
-![This is an Image] ()
+<img src="https://github.com/ABorden23/bikesharing-/blob/main/resources/Top%20Ten%20End%20Stations.jpg" width=75% height=75%>
 
 ### 3. August Peak Hours
 
-![This is an Image] ()
+<img src="https://github.com/ABorden23/bikesharing-/blob/main/resources/August%20Peak%20Hours.jpg" width=75% height=75%>
 
 
 ## Summary:
